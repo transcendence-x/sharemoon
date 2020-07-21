@@ -1,5 +1,6 @@
 package com.sharemoon.entity;
 
 public class User {
-    private String userName;
+    private String user_Name;
+
 }
